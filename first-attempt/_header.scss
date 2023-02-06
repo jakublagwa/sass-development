@@ -1,0 +1,9 @@
+@use "variables";
+header {
+    background-color: $primary-color;
+    color: #fff
+    font-family: $header-fontofamily;
+    font-size: $base-font-size * 1.5;
+    padding:  1rem;
+    text-align: center;
+}
